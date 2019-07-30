@@ -1,0 +1,25 @@
+<html>
+<head>
+   <title>HERE & Mapbox</title>
+   <script src="https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js"></script>
+   <link href="https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css" rel='stylesheet' />
+   <style>
+      body, html { border: 0; padding: 0; margin: 0; }
+      #map { width: 100vw; height: 100vh; }
+   </style>
+</head>
+<body>
+   <div id="map"></div>
+   <script>
+      //Be sure to replace this key with your own HERE developer key from developer.here.com
+      //This key will randomly expire
+      const key = 'ASCBZnCcvEMa-vbk9JXixN8';
+      const map = new mapboxgl.Map({
+         container: 'map',
+         style: 'https://assets.vector.hereapi.com/styles/berlin/base/mapbox/tilezen?apikey=' + key,
+         center: [-122.431297, 37.773972], //Longitude, Latitude
+         zoom: 11
+      });
+   </script>
+</body>
+</html>
