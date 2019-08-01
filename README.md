@@ -14,6 +14,7 @@ _From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin 
 
 * [Live demo](https://heremaps.github.io/vector-tile-examples/harp.gl)
 * [Source code](./harp.gl/index.html)
+* [Tutorial on getting started with harp.gl](https://developer.here.com/tutorials/harpgl)
 
 ### Mapbox GL JS
 
