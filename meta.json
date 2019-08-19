@@ -1,0 +1,43 @@
+{
+    "header": {
+      "title": "Vector Tiles rendering Examples",
+      "meta": {
+        "keywords": "API Explorer, Vector Tiles, Rendering",
+        "version": "0.0.1"
+      }
+    },
+    "categories": {
+        "maps-js": {
+            "title": "Vector Tiles rendering examples",
+            "meta": {
+                "keywords": "Vector Tiles, Rendering engine, API Explorer, Playground"
+            },
+            "sub-categories": [
+                {
+                    "uid": "rendering",
+                    "title": "Rendering",
+                    "examples": [
+                        {
+                            "uid": "harp.gl",
+                            "title": "Rendering vector tiles with Harp.gl",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Harp.gl rendering engine",
+                            "published": true
+                        },
+                        {
+                            "uid": "mapbox",
+                            "title": "Rendering vector tiles with Mapbox",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Mapbox rendering engine",
+                            "published": true
+                        },
+                        {
+                            "uid": "tangram",
+                            "title": "Rendering vector tiles with Tangram",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Tangram rendering engine",
+                            "published": true
+                        }
+                    ]
+		}
+	    ]
+        }
+    }
+}
