@@ -7,7 +7,7 @@
       }
     },
     "categories": {
-        "maps-js": {
+        "vector-tiles": {
             "title": "Vector Tiles rendering examples",
             "meta": {
                 "keywords": "Vector Tiles, Rendering engine, API Explorer, Playground"
