@@ -41,6 +41,6 @@ This service contains a set of out of the box styles ready to be used with the h
 
 ## License
 
-Copyright (C) 2019 HERE Europe B.V.
+Copyright (C) 2018-2019 HERE Europe B.V.
 
 Licensed under the Apache-2.0 license, see the [LICENSE](./LICENSE) file in the root of this project for license details.
