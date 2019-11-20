@@ -20,7 +20,8 @@
    
          //Be sure to replace this key with your own HERE developer key from developer.here.com
          //This key will randomly expire
-         const key = 'jW27GQQz8c0VF0dwCRLB4ue-ShWX99bu-decatA_fjo';
+         
+         const key = apikey;
          const omvDataSource = new harp.OmvDataSource({
             baseUrl: "https://vector.hereapi.com/v2/vectortiles/base/mc",
             apiFormat: harp.APIFormat.XYZOMV,
