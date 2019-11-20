@@ -12,19 +12,19 @@ _From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin 
 
 ### harp.gl
 
-* [Live demo](https://heremaps.github.io/vector-tile-examples/harp.gl)
+* [Live demo](https://heremaps.github.io/here-vector-tile-examples/harp.gl)
 * [Source code](./harp.gl/index.html)
 * [Tutorial on getting started with harp.gl](https://developer.here.com/tutorials/harpgl)
 
 ### Mapbox GL JS
 
-* [Live demo](https://heremaps.github.io/vector-tile-examples/mapbox)
+* [Live demo](https://heremaps.github.io/here-vector-tile-examples/mapbox)
 * [Source code](./mapbox/index.html)
 * [Tutorial on integrating vector tiles into Mapbox GL JS](https://developer.here.com/tutorials/vector-tile-mapbox)
 
 ### Tangram JS
 
-* [Live demo](https://heremaps.github.io/vector-tile-examples/tangram)
+* [Live demo](https://heremaps.github.io/here-vector-tile-examples/tangram)
 * [Source code](./tangram/index.html)
 * [Tutorial on integrating vector tiles into Tangram JS](https://developer.here.com/tutorials/vector-tile-tangram)
 
