@@ -1,0 +1,12 @@
+---
+ name: Vector Tiles API with Tangram renderer 
+ description: Mapbox rendering tiles from the Vector Tiles API
+ resources:
+   - https://heremaps.github.io/vector-tiles-examples/test-credentials.js
+ normalize_css: no
+ dtd: html 5
+ wrap: d
+ panel_html: 0
+ panel_js: 0
+ panel_css: 0
+...
