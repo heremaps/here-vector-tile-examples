@@ -22,6 +22,18 @@
                             "title": "Rendering vector tiles with Mapbox",
                             "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Mapbox rendering engine",
                             "published": true
+                        },
+                        {
+                            "uid": "harpgl",
+                            "title": "Rendering vector tiles with Harp.gl",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Harp.gl rendering engine",
+                            "published": true
+                        },
+                        {
+                            "uid": "tangram",
+                            "title": "Rendering vector tiles with tangram",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Tangram rendering engine",
+                            "published": true
                         }
                     ]
 		}
