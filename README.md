@@ -32,4 +32,4 @@ _From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin 
 
 Copyright (C) 2018-2019 HERE Europe B.V.
 
-Licensed under the Apache-2.0 license, see the [LICENSE](./LICENSE) file in the root of this project for license details.
+Unless otherwise noted in a LICENSE file for specific files or directories, the files in this repository are under the Apache-2.0 license, see the [LICENSE](./LICENSE) file in the root of this project for license details.
