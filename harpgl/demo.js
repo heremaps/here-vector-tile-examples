@@ -1,15 +1,13 @@
            
-           const map = new harp.MapView({
-            canvas: document.getElementById("map"),
+         const canvas = document.getElementById("map");
+         const map = new harp.MapView({
+            canvas: canvas,
             theme: "https://assets.vector.hereapi.com/styles/berlin/base/harp.gl/tilezen?apikey=xxx",
          });
    
          const controls = new harp.MapControls(map);
-         window.onresize = () => map.resize(window.innerWidth, window.innerHeight);
-         map.setCameraGeolocationAndZoom(
-            new harp.GeoCoordinates(37.773972, -122.431297), //Latitude, Longitude
-            11
-         );
+         window.onresize = () => map.resize(canvas.clientWidth, canvas.clientHeight);
+         map.lookAt(new harp.GeoCoordinates(37.773972, -122.431297), 14000, 0, 0);
    
          const copyrights = {
             id: "here.com",
