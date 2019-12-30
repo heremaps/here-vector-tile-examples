@@ -2,7 +2,7 @@
 
 This repository contains working examples of the HERE Vector Tile Service with various web map renderers.
 
-For more information on the HERE Vector Tile Service, please visit the [official documentation](https://developer.here.com/documentation/vector-tile-api/dev_guide/index.html).
+For more information on the HERE Vector Tile Service, please visit the [official documentation](https://developer.here.com/documentation/vector-tiles-api/).
 
 ![triple map view](maps.png)
 
