@@ -33,7 +33,7 @@
                             "uid": "tangram",
                             "title": "Rendering vector tiles with tangram",
                             "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Tangram rendering engine",
-                            "published": false
+                            "published": true
                         }
                     ]
 		}
