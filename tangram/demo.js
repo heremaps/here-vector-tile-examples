@@ -7,4 +7,5 @@ center: [37.773972, -122.431297], //Latitude, Longitude
 zoom: 11,
 layers: [tangram],
 });
-map.attributionControl.addAttribution('&copy; HERE 2019');
+
+map.attributionControl.addAttribution('&copy; HERE 2020');
