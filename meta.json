@@ -30,6 +30,12 @@
                             "published": true
                         },
                         {
+                            "uid": "jsla",
+                            "title": "Rendering vector tiles with HERE Maps API for JavaScript",
+                            "shortDescription": "Renders the map using HERE Vector Tiles data, styles and HERE Maps API for JavaScript",
+                            "published": true
+                        },
+                        {
                             "uid": "tangram",
                             "title": "Rendering vector tiles with tangram",
                             "shortDescription": "Renders the map using HERE Vector Tiles data, styles and Tangram rendering engine",
