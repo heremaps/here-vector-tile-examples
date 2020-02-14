@@ -30,7 +30,7 @@
                             "published": true
                         },
                         {
-                            "uid": "jsla",
+                            "uid": "here-maps-api-for-javascript",
                             "title": "Rendering vector tiles with HERE Maps API for JavaScript",
                             "shortDescription": "Renders the map using HERE Vector Tiles data, styles and HERE Maps API for JavaScript",
                             "published": true
