@@ -28,8 +28,14 @@ _From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin 
 * [Source code](./tangram/index.html)
 * [Tutorial on integrating vector tiles into Tangram JS](https://developer.here.com/tutorials/vector-tile-tangram)
 
+### HERE Maps API for JavaScript
+
+* [Live demo](https://heremaps.github.io/here-vector-tile-examples/here-maps-api-for-javascript)
+* [Source code](./here-maps-api-for-javascript/index.html)
+* [How to create an application with HERE Maps API for JavaScript](https://developer.here.com/tutorials/javascript-api/)
+
 ## License
 
-Copyright (C) 2018-2019 HERE Europe B.V.
+Copyright (C) 2018-2020 HERE Europe B.V.
 
 Unless otherwise noted in a LICENSE file for specific files or directories, the files in this repository are under the Apache-2.0 license, see the [LICENSE](./LICENSE) file in the root of this project for license details.
