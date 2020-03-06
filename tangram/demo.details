@@ -1,6 +1,6 @@
 ---
- name: Vector Tiles API with Tangram renderer 
- description: Tangram rendering tiles from the Vector Tiles API
+ name: Vector Tile API with Tangram renderer 
+ description: Tangram rendering tiles from the Vector Tile API
  resources:
    - https://heremaps.github.io/here-vector-tile-examples/test-credentials.js
  normalize_css: no
