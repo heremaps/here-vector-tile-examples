@@ -13,25 +13,25 @@ _From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin 
 ### harp.gl
 
 * [Live demo](https://heremaps.github.io/here-vector-tile-examples/harpgl)
-* [Source code](./harpgl/index.html)
+* [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/harpgl/index.html)
 * [Tutorial on getting started with harp.gl](https://developer.here.com/tutorials/harpgl)
 
 ### Mapbox GL JS
 
 * [Live demo](https://heremaps.github.io/here-vector-tile-examples/mapbox)
-* [Source code](./mapbox/index.html)
+* [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/mapbox/index.html)
 * [Tutorial on integrating vector tiles into Mapbox GL JS](https://developer.here.com/tutorials/vector-tile-mapbox)
 
 ### Tangram JS
 
 * [Live demo](https://heremaps.github.io/here-vector-tile-examples/tangram)
-* [Source code](./tangram/index.html)
+* [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/tangram/index.html)
 * [Tutorial on integrating vector tiles into Tangram JS](https://developer.here.com/tutorials/vector-tile-tangram)
 
 ### HERE Maps API for JavaScript
 
 * [Live demo](https://heremaps.github.io/here-vector-tile-examples/here-maps-api-for-javascript)
-* [Source code](./here-maps-api-for-javascript/index.html)
+* [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/here-maps-api-for-javascript/index.html)
 * [How to create an application with HERE Maps API for JavaScript](https://developer.here.com/tutorials/javascript-api/)
 
 ## License
