@@ -6,15 +6,9 @@ For more information on the HERE Vector Tile Service, please visit the [official
 
 ![triple map view](maps.png)
 
-_From left to right: Berlin base (harp.gl), Berlin night (Mapbox GL JS), Berlin day (Tangram JS)._
+_From left to right: Berlin night (Mapbox GL JS), Berlin day (Tangram JS)._
 
 ## Renderers
-
-### harp.gl
-
-* [Live demo](https://heremaps.github.io/here-vector-tile-examples/harpgl)
-* [Source code](https://github.com/heremaps/here-vector-tile-examples/blob/master/harpgl/index.html)
-* [Tutorial on getting started with harp.gl](https://developer.here.com/tutorials/harpgl)
 
 ### Mapbox GL JS
 

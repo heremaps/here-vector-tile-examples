@@ -30,12 +30,6 @@
                             "published": true
                         },
                         {
-                            "uid": "harpgl",
-                            "title": "Rendering vector tiles with Harp.gl",
-                            "shortDescription": "Renders the map using HERE Vector Tile data, styles and Harp.gl rendering engine",
-                            "published": true
-                        },
-                        {
                             "uid": "tangram",
                             "title": "Rendering vector tiles with tangram",
                             "shortDescription": "Renders the map using HERE Vector Tile data, styles and Tangram rendering engine",
